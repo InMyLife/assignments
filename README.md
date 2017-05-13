@@ -5,3 +5,5 @@ my assignments
 <br>[Assignment week 4, assignment 2](https://github.com/InMyLife/assignments/blob/master/Assignment_week_4.ipynb)
 <br>[Assignment week 6, assignment 4](https://github.com/InMyLife/assignments/blob/master/assignment4.ipynb)
 <br>[Assignment week 5, assignment 3](https://github.com/InMyLife/assignments/blob/master/Assignment_week_5.ipynb)
+<br>[Assignment week 8, assignment 6](https://github.com/InMyLife/assignments/blob/master/assignment5(2).ipynb)
+
