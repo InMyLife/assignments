@@ -7,3 +7,4 @@ my assignments
 <br>[Assignment week 5, assignment 3](https://github.com/InMyLife/assignments/blob/master/Assignment_week_5.ipynb)
 <br>[Assignment week 8, assignment 5](https://github.com/InMyLife/assignments/blob/master/assignment5(2).ipynb)
 <br>[Final assignment R af](https://github.com/InMyLife/assignments/blob/master/R_exam_af.ipynb)
+<br>[Python assignment af](https://github.com/InMyLife/assignments/blob/master/Python_assignment_Finished.ipynb) 
